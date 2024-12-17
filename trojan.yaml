@@ -64,18 +64,4 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
       
   - name: "POINT_trojan"
-    server: 172.67.5.14
-    port: 443
-    type: trojan
-    password: 9ed8a61aa9ef422a
-    sni: point.sing-box.id
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
-      headers:
-        Host: point.sing-box.id
-      max-early-data: 0
-      early-data-header-name: Sec-WebSocket-Protocol
-      
+    
