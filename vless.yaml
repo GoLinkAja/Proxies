@@ -1,5 +1,5 @@
 proxies:
-  - name: "AS983_vless"
+  - name: "AS983_vl"
     server: 172.67.5.14
     port: 443
     type: vless
@@ -16,7 +16,7 @@ proxies:
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
       
-  - name: "SDC_vless"
+  - name: "SDC_vl"
     server: 172.67.5.14
     port: 443
     type: vless
@@ -33,7 +33,7 @@ proxies:
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
       
-  - name: "IKADA_vless"
+  - name: "IKADA_vl"
     server: 172.67.5.14
     port: 443
     type: vless
@@ -50,7 +50,7 @@ proxies:
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
       
-  - name: "ATP_vless"
+  - name: "ATP_vl"
     server: 172.67.5.14
     port: 443
     type: vless
@@ -67,7 +67,7 @@ proxies:
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
       
-  - name: "POINT_vless"
+  - name: "POINT_vl"
     server: 172.67.5.14
     port: 443
     type: vless
