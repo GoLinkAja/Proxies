@@ -19,7 +19,7 @@ proxies:
     server: 172.67.5.14
     port: 443
     type: trojan
-    password: ba44e1cdf187bc69
+    password: 4d43c4cf8ab61470
     sni: sdc.sing-box.id
     skip-cert-verify: true
     udp: true
@@ -51,7 +51,7 @@ proxies:
     server: 172.67.5.14
     port: 443
     type: trojan
-    password: eba0171debdfa6d1
+    password: 413a6754698b2906
     sni: atp.sing-box.id
     skip-cert-verify: true
     udp: true

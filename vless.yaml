@@ -21,7 +21,7 @@ proxies:
     port: 443
     type: vless
     tls: true
-    uuid: fdf5e7d8-0675-4ca9-abd3-aea29e2a1d75
+    uuid: 7aa43491-850f-4954-bf7c-51471e1b38fe
     servername: sdc.sing-box.id
     skip-cert-verify: true
     udp: true
@@ -38,7 +38,7 @@ proxies:
     port: 443
     type: vless
     tls: true
-    uuid: 8811323a-02ae-42e3-9338-c47b337e0f54
+    uuid: 21d1db2f-66ef-4ee0-b9ec-b58663eb1401
     servername: ikada.sing-box.id
     skip-cert-verify: true
     udp: true
@@ -72,7 +72,7 @@ proxies:
     port: 443
     type: vless
     tls: true
-    uuid: 5315a5f8-c15f-4033-bc5d-a6920d7da46d
+    uuid: f72910fa-8272-4b49-8b9a-49a9ead9922ed
     servername: point.sing-box.id
     skip-cert-verify: true
     udp: true

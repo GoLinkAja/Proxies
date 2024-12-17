@@ -1,9 +1,9 @@
 proxies:
-  - name: as_vm
+  - name: AS983_vm
     server: 172.67.5.14
     port: 443
     type: vmess
-    uuid: 60d4d906-ee4f-4861-96d9-5581c62fbee2
+    uuid: 969806bd-9de1-452e-a39f-b0e00cb1f87a
     alterId: 0
     cipher: auto
     tls: true
@@ -18,7 +18,7 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
     udp: true
 
-  - name: sd_vm
+  - name: SDC_vm
     server: 172.67.5.14
     port: 443
     type: vmess
@@ -37,7 +37,7 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
     udp: true
 
-  - name: ik_vm
+  - name: IKADA_vm
     server: 172.67.5.14
     port: 443
     type: vmess
@@ -56,7 +56,7 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
     udp: true
 
-  - name: at_vm
+  - name: ATP_vm
     server: 172.67.5.14
     port: 443
     type: vmess
@@ -75,7 +75,7 @@ proxies:
       early-data-header-name: Sec-WebSocket-Protocol
     udp: true
 
-  - name: po_vm
+  - name: POINT_vm
     server: 172.67.5.14
     port: 443
     type: vmess
