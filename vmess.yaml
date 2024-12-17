@@ -1,86 +1,96 @@
 proxies:
-  - name: "AS983_vl"
+  - name: as_vm
     server: 172.67.5.14
     port: 443
-    type: vless
+    type: vmess
+    uuid: 60d4d906-ee4f-4861-96d9-5581c62fbee2
+    alterId: 0
+    cipher: auto
     tls: true
-    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
-    servername: as983.sing-box.id
     skip-cert-verify: true
-    udp: true
+    servername: as983.sing-box.id
     network: ws
     ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
         Host: as983.sing-box.id
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
-      
-  - name: "SDC_vl"
+    udp: true
+
+  - name: sd_vm
     server: 172.67.5.14
     port: 443
-    type: vless
+    type: vmess
+    uuid: cce64935-96cc-4e62-801b-50fa4836430c
+    alterId: 0
+    cipher: auto
     tls: true
-    uuid: fdf5e7d8-0675-4ca9-abd3-aea29e2a1d75
-    servername: sdc.sing-box.id
     skip-cert-verify: true
-    udp: true
+    servername: sdc.sing-box.id
     network: ws
     ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
         Host: sdc.sing-box.id
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
-      
-  - name: "IKADA_vl"
+    udp: true
+
+  - name: ik_vm
     server: 172.67.5.14
     port: 443
-    type: vless
+    type: vmess
+    uuid: c90bd75c-bd10-453d-94c8-947bdab987be
+    alterId: 0
+    cipher: auto
     tls: true
-    uuid: 8811323a-02ae-42e3-9338-c47b337e0f54
-    servername: ikada.sing-box.id
     skip-cert-verify: true
-    udp: true
+    servername: ikada.sing-box.id
     network: ws
     ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
         Host: ikada.sing-box.id
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
-      
-  - name: "ATP_vl"
+    udp: true
+
+  - name: at_vm
     server: 172.67.5.14
     port: 443
-    type: vless
+    type: vmess
+    uuid: 1a34697a-def1-415e-86a7-f703346a159d
+    alterId: 0
+    cipher: auto
     tls: true
-    uuid: ab903680-8749-45dd-ab30-ebfc2d38667b
-    servername: atp.sing-box.id
     skip-cert-verify: true
-    udp: true
+    servername: atp.sing-box.id
     network: ws
     ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
         Host: atp.sing-box.id
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
-      
-  - name: "POINT_vl"
+    udp: true
+
+  - name: po_vm
     server: 172.67.5.14
     port: 443
-    type: vless
+    type: vmess
+    uuid: 592b9110-4b23-43d4-813e-2d4a6e3fbe01
+    alterId: 0
+    cipher: auto
     tls: true
-    uuid: 5315a5f8-c15f-4033-bc5d-a6920d7da46d
-    servername: point.sing-box.id
     skip-cert-verify: true
-    udp: true
+    servername: point.sing-box.id
     network: ws
     ws-opts:
-      path: /buy-vless-ws-pm-telegram-at-synricha
+      path: /buy-vmess-ws-pm-telegram-at-synricha
       headers:
         Host: point.sing-box.id
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
-      
+    udp: true
+
