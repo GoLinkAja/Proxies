@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 proxies:
   - name: "AS983_tr"
+=======
+proxies: 
+  - name: "AS983_trojan"
+>>>>>>> refs/remotes/origin/main
     server: 172.67.5.14
     port: 443
     type: trojan
