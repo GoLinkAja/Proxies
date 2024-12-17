@@ -1,0 +1,86 @@
+proxies:
+  - name: "AS983_vless"
+    server: 172.67.5.14
+    port: 443
+    type: vless
+    tls: true
+    uuid: 9b801b8f-3a17-4017-a972-f4d7a4772676
+    servername: as983.sing-box.id
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: /buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: as983.sing-box.id
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
+  - name: "SDC_vless"
+    server: 172.67.5.14
+    port: 443
+    type: vless
+    tls: true
+    uuid: 6a1cbdc4-4246-40eb-9dcd-fdefd2f1228f
+    servername: sdc.sing-box.id
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: /buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: sdc.sing-box.id
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
+  - name: "IKADA_vless"
+    server: 172.67.5.14
+    port: 443
+    type: vless
+    tls: true
+    uuid: 8811323a-02ae-42e3-9338-c47b337e0f54
+    servername: ikada.sing-box.id
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: /buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: ikada.sing-box.id
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
+  - name: "ATP_vless"
+    server: 172.67.5.14
+    port: 443
+    type: vless
+    tls: true
+    uuid: 5131131f-5833-4b79-84f9-c7e69b466536
+    servername: atp.sing-box.id
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: /buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: atp.sing-box.id
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
+  - name: "POINT_vless"
+    server: 172.67.5.14
+    port: 443
+    type: vless
+    tls: true
+    uuid: 5315a5f8-c15f-4033-bc5d-a6920d7da46d
+    servername: point.sing-box.id
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: /buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: point.sing-box.id
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
