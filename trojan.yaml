@@ -1,4 +1,4 @@
-proxies:
+proxies: 
   - name: "AS983_trojan"
     server: 172.67.5.14
     port: 443
