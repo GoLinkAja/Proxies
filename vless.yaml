@@ -4,7 +4,7 @@ proxies:
     port: 443
     type: vless
     tls: true
-    uuid: 9b801b8f-3a17-4017-a972-f4d7a4772676
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
     servername: as983.sing-box.id
     skip-cert-verify: true
     udp: true
@@ -21,7 +21,7 @@ proxies:
     port: 443
     type: vless
     tls: true
-    uuid: 6a1cbdc4-4246-40eb-9dcd-fdefd2f1228f
+    uuid: ebd579cf-654f-4af7-80a3-145f5e68d62a
     servername: sdc.sing-box.id
     skip-cert-verify: true
     udp: true

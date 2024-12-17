@@ -1,5 +1,5 @@
-proxies: 
-  - name: "AS983_trojan"
+proxies:
+  - name: "AS983_tr"
     server: 172.67.5.14
     port: 443
     type: trojan
@@ -35,7 +35,7 @@ proxies:
     server: 172.67.5.14
     port: 443
     type: trojan
-    password: af602e007e5057af
+    password: b4fc9f864b0a9de4
     sni: ikada.sing-box.id
     skip-cert-verify: true
     udp: true
