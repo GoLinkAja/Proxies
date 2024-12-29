@@ -1,0 +1,6280 @@
+proxies:
+  - name: "🇸🇬 Akamai Connected Cloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.3.63.253:46683
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.162.33.248:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.162.48.174:10000
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.177.190.120:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.177.190.120:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.42.66.91:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.42.68.97:17055
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=172.104.170.159:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akamai Connected Cloud (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=172.104.170.159:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akile"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.56.37.72:34511
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akile (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=185.126.80.215:25565
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akile (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=185.81.28.95:30503
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Akile (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=185.81.29.113:8080
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (US) Technology Co."
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.237.12.70:54374
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.245.123.134:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.14.21:23943
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.59.132:48964
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.77.72:5027
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.79.88:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.165.104:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.178.214:6666
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba Cloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=161.117.249.114:2025
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.119.190:51342
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.173.166:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.181.185:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (10)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.22.194:52324
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (11)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.246.163:14108
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (12)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.25.107:27903
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (13)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.85.105:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (14)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.236.86.17:49257
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (15)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.245.91.197:9000
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (16)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.245.95.160:1443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (17)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=47.74.254.191:8900
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (18)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.1.169:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (19)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.197.113:45714
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (20)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.237.57:31523
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (21)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.254.209:41101
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (22)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.3.213:41074
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (23)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.3.213:58272
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (24)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.58.164:57373
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (25)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.59.132:48130
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (26)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.219.59.208:11178
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (27)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.129.175:58808
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (28)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.143.82:24245
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (29)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.173.58:23390
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (30)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.194.126:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (31)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.212.110:1103
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (32)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.220.81:25435
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Alibaba (33)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=8.222.243.73:26385
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.228.142.218:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.228.155.72:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.229.159.215:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.229.23.63:53443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.250.131.37:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.250.14.76:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=13.250.38.94:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=175.41.148.129:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=18.141.114.130:50450
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=18.141.114.130:52132
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (10)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=18.141.140.120:30011
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (11)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=3.1.116.161:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (12)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=3.1.116.161:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazon.com (13)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=54.169.229.188:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Amazoncom"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=54.251.167.101:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Aryaka Networks"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=185.114.78.230:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 CDS Global Cloud Co."
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=164.52.2.100:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 CDS Global Cloud Co. (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=164.52.2.98:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 CDS Global Cloud Co. (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=164.52.2.99:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Chelyabinsk-Signal"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=31.192.238.71:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Chelyabinsk-Signal (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=31.192.238.71:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Cloudflare Warp"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.74.219:28616
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Cloudflare Warp (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.235.17.31:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Cloudflare Warp (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.240.232:10258
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Cloudflare Warp (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.240.232:23559
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Contabo Asia Private"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=62.72.46.14:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Contabo Asia Private (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=82.197.69.135:43536
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=104.248.145.216:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=104.248.146.212:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=104.248.146.212:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=104.248.154.142:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=104.248.154.142:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=128.199.171.100:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=128.199.171.100:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=128.199.177.142:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.198.196.196:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.198.196.196:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (10)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.198.213.197:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (11)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=143.198.213.197:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (12)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.190.106.55:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (13)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.190.111.165:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (14)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.190.192.88:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (15)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.42.172.170:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (16)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.42.233.116:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (17)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.42.233.116:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (18)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.172.90.142:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (19)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.172.90.142:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (20)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.71.194.185:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (21)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.211.5:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (22)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.48.16:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (23)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.54.16:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (24)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.54.16:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (25)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.80.43:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (26)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.89.45:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (27)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.91.137:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (28)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=188.166.242.216:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Digital Ocean (29)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=209.97.172.173:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 DigitalOcean"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=128.199.218.226:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 DigitalOcean (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.71.219.234:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 DigitalOcean (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.71.219.234:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 DigitalOcean (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=178.128.48.16:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 DigitalOcean (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=188.166.241.181:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Eons Data Communications"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=38.181.70.7:16240
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 FIRST SERVER LIMITED"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.36.179.17:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 FIRST SERVER LIMITED (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.36.179.17:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 First Server"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=193.239.166.244:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 GoDaddy.com"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=97.74.82.87:45837
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Green Floid"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=5.34.176.119:81
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HIVELOCITY"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=209.182.237.252:8080
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co."
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.10:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.123:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.154:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.169:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.179:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.180:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.203:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.227:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.229:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.38:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (10)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.41:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (11)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.58:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (12)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.68:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (13)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.69:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (14)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.74:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (15)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.83:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (16)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.161.88:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (17)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.40.11.103:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (18)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.40.11.196:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 HONG KONG Megalayer Technology Co. (19)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.40.11.24:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Hetzner Online GmbH"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=5.223.41.156:8080
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Hetzner Online GmbH (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=5.223.41.214:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Hetzner Online"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=5.223.49.4:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Hetzner Online (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=89.47.198.209:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Huawei Cloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=190.92.213.24:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 IPTELECOM Global"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.245.198.240:587
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Kaopu Cloud HK Limited"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=38.54.16.222:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Kaopu Cloud HK Limited (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=38.54.16.222:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Kaopu Cloud HK"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=38.54.16.95:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Latitude-sh"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=64.49.14.41:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Latitude-sh (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=64.49.14.41:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Leaseweb Asia"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.253.158.63:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Leaseweb Asia (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=167.253.158.63:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Leaseweb Asia (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.127.193.124:24467
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Leaseweb Asia (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.127.193.240:50791
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Leaseweb Asia (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=69.161.221.117:63258
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 M1"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=118.189.215.123:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 M247 Europe"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=84.247.49.210:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 M247 Europe (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=84.247.49.211:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Melbikomas UAB"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=91.192.81.154:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Melbikomas UAB (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=91.192.81.154:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Microsoft Azure"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=20.198.241.32:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Microsoft Azure (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=20.198.241.32:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Microsoft Corporation"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=52.187.95.20:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Neapol Group Ltd"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.36.178.36:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Neapol Group Ltd (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.36.178.36:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Neapol Group Ltd (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.36.179.5:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.158.126:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.158.58:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.158.58:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.250.33:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.250.33:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH Hosting (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.254.182:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH SAS"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.99.83.49:20380
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH SAS (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.99.83.49:50622
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH SAS (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.145.13:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH SAS (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.161.46:20380
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVH SAS (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=51.79.161.46:50622
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVHcloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=15.235.162.49:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVHcloud (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=15.235.199.103:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 OVHcloud (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=15.235.199.103:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Onidel Pty Ltd"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=160.22.79.174:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.36.188:53435
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.41.174:16462
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.49.58:18650
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.58.86:57621
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.62.1:24016
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.111.140:10010
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.69.100:10002
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.69.236:23334
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.77.179:30018
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.81.243:45319
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (10)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.85.23:8080
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (11)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.89.238:43254
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (12)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.89.64:32962
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (13)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.90.127:55555
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (14)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.95.61:1111
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (15)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=140.245.34.185:59320
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (16)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.235.16.65:15174
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (17)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.235.18.248:45137
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (18)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=146.235.19.79:28983
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (19)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.69.210.245:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (20)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.69.220.136:53076
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (21)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.225.124:12934
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (22)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.225.124:37461
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (23)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.225.124:37497
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (24)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.225.124:53618
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (25)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.228.8:10010
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (26)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.236.14:61731
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (27)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.243.152:61731
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (28)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.246.142:61731
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (29)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.160.54:19081
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (30)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.162.187:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (31)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.165.174:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (32)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.166.213:10500
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (33)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.170.211:53702
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (34)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.171.70:23280
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (35)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.178.6:19990
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (36)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.181.188:61731
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (37)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.183.48:9090
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (38)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.184.172:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (39)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=213.35.100.31:47112
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (40)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=213.35.107.73:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (41)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=213.35.108.135:12596
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Cloud (42)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=213.35.115.254:23936
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.150.50.21:44009
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.100.221:26621
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.101.213:15204
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.66.92:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.75.219:39341
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=138.2.91.98:9711
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=152.69.221.114:23302
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=158.178.238.239:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=168.138.184.142:19191
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Oracle Corporation (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=213.35.125.129:6434
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Regxa Cloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=206.206.76.208:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Regxa Cloud (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=206.206.76.208:8443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Shenzhen Tencent Computer Systems Company Limited"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.134.5.247:23509
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 SoftLayer Technologies"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=119.81.201.154:9089
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 SpeedyPage Ltd"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.9.62.132:34646
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 SpeedyPage Ltd (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=194.9.62.132:57255
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Streamline Servers Pty Ltd"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=83.142.30.129:2096
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Streamline Servers Pty Ltd (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=83.142.30.4:2096
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Streamline Servers Pty Ltd (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=83.142.30.5:2096
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=101.32.247.126:725
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=129.226.158.125:8088
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=150.109.24.233:6666
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.128.95.84:38091
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.134.34.18:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.134.99.162:51686
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.116.194:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.181.203:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent Building (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.253.94:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=150.109.94.144:8900
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.134.181.60:38371
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.134.239.19:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.16.213:31528
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.26.205:23654
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.56.22:7676
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.6.97:10392
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Tencent cloud computing (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=43.156.97.73:57145
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 UpCloud"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=94.237.75.31:62174
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.180.144.170:666
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=139.180.215.77:57878
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (2)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=207.148.68.228:80
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (3)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.32.100.46:13802
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (4)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.76.156.96:2053
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (5)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.76.183.217:49292
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (6)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.77.171.102:3128
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (7)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.77.34.78:34237
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (8)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=45.77.36.40:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 Vultr (9)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=64.176.84.144:81
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 WebHorizon Internet Services"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=27.0.234.146:19886
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 WebHorizon Internet Services (1)"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=27.0.234.74:2911
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+
+  - name: "🇸🇬 iFog"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: 0fc05905-c056-4d33-82f1-88dcc64efa43
+    servername: aio.ardi45.us.kg
+    skip-cert-verify: false
+    udp: false
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /vl=103.180.193.56:443
+      headers:
+        Host: aio.ardi45.us.kg
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+

@@ -1,0 +1,23 @@
+proxies:
+  - name: "oke"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: f24f4b7a-9d71-4c25-9070-15e2618e0b50
+    servername: premium-ctb.sing-box.cyou
+    skip-cert-verify: false
+    udp: true
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /test/buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: premium-ctb.sing-box.cyou
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
