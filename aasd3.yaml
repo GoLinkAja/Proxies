@@ -1,5 +1,5 @@
 proxies:
-  - name: "oke"
+  - name: "oke cyou"
     server: abogado.lipcon.com
     port: 443
     type: vless
@@ -21,3 +21,71 @@ proxies:
         Host: premium-ctb.sing-box.cyou
       max-early-data: 0
       early-data-header-name: Sec-WebSocket-Protocol
+  
+  - name: "oke cv"
+    server: abogado.lipcon.com
+    port: 443
+    type: vless
+    tls: true
+    uuid: f24f4b7a-9d71-4c25-9070-15e2618e0b50
+    servername: premium-ctb.sing-box.cv
+    skip-cert-verify: false
+    udp: true
+    packet-encoding: xudp
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /test/buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: premium-ctb.sing-box.cyou
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+  
+  - name: "VVIP CV"
+    server: abogado.lipcon.com
+    port: 443
+    type: trojan
+    tls: true
+    password: 710161b338e65e3b
+    sni: speed.sing-box.cv
+    skip-cert-verify: false
+    udp: true
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /test/buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: speed.sing-box.cv
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+  
+  - name: "VVIP CYOU"
+    server: abogado.lipcon.com
+    port: 443
+    type: trojan
+    tls: true
+    password: 710161b338e65e3b
+    sni: speed.sing-box.cv
+    skip-cert-verify: false
+    udp: true
+    client-fingerprint: randomized
+    alpn:
+    - h3
+    - h2
+    - http/1.1
+    network: ws
+    ws-opts:
+      path: /test/buy-vless-ws-pm-telegram-at-synricha
+      headers:
+        Host: speed.sing-box.cv
+      max-early-data: 0
+      early-data-header-name: Sec-WebSocket-Protocol
+      
